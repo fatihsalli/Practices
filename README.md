@@ -1,12 +1,5 @@
 ---
 
-# Practices 
-
-## Contents
-
-- BreadQueue
----
-
 # C# Code Practices 
 
 ## Contents
